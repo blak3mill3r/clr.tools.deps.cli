@@ -1,6 +1,6 @@
 # clr.tools.deps.cli
 
-A port of the [clojure/tools.deps.cli](https://github.com/clojure/tool.deps.cli) library to ClojureCLR.
+A port of the [clojure/tools.deps.cli](https://github.com/clojure/tools.deps.cli) library to ClojureCLR.
 
 See that repository for documentation.
 
